@@ -1,0 +1,19 @@
+{
+  "name": "ResourceParser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vsumner/resource-parser.git"
+  },
+  "author": "Victor Sumner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsumner/resource-parser/issues"
+  },
+  "homepage": "https://github.com/vsumner/resource-parser"
+}
