@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vsumner/resource-parser/issues"
   },
-  "homepage": "https://github.com/vsumner/resource-parser"
+  "homepage": "https://github.com/vsumner/resource-parser",
+  "devDependencies": {
+    "browserify": "^9.0.3"
+  }
 }
